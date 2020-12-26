@@ -1,0 +1,23 @@
+.thumbnail {
+  text-align: center;
+}
+
+.fullpage {
+  padding: 90px 90px 90px 90px;
+  background-color: rgb(238, 236, 236);
+  margin: 20px 40px 20px 40px;
+  border-radius: 15px;
+  width: auto;
+}
+
+.image {
+  text-align: center;
+}
+
+.points {
+  padding: 10px 50px 20px 20px;
+}
+
+.wiki {
+  text-align: center;
+}
